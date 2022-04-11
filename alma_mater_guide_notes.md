@@ -14,6 +14,8 @@ Blog posts will take the form of a casual interview.
 Blog posts should have imagery to emphasis the human element of who uses
 AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
+**Wish:** Persons being interviewed/showcased should not be the usual suspects. Try to get people from the wider community. It could be you!
+
 **Wish:** Video would be nice and would allow additional promotion on various channels.
 
 ## Key
