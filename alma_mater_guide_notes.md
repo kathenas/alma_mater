@@ -34,6 +34,8 @@ AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
 **Q.** What hardware do you deploy AlmaLinux on?
 
+**Q.** What are your five most used applications?
+
 **Q.** How do you contribute to AlmaLinux.
 
    * **GQ.** Do you only consume AlmaLinux?
