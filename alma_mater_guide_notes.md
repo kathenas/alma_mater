@@ -9,16 +9,16 @@ A series of ongoing blog posts to:
 * Promote community/membership.
 * Promote the users of AlmaLinux.
 
-Blog posts will ake the form of casual interviews.
+Blog posts will take the form of a casual interview.
 
 Blog posts should have imagery to emphasis the human element of who uses
 AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
-Video would be nice and would allow additional promotion on various channels.
+**Wish:** Video would be nice and would allow additional promotion on various channels.
 
 ## Key
 
-* **Q.** - Quesion.
+* **Q.** - Question.
 * **GQ.** - Sub guide question.
 
 ## Questions
