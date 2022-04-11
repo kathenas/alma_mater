@@ -29,20 +29,20 @@ Video would be nice and would allow additional promotion on various channels.
 
 **Q.** How do you use AlmaLinux?
 
-   * **GQ.*** In the back office, front office or both?
-   * **GQ.*** Anything out of the ordinary?
+   * **GQ.** In the back office, front office or both?
+   * **GQ.** Anything out of the ordinary?
 
 **Q.** How do you contribute to AlmaLinux.
 
-   * **GQ.*** Do you only consume AlmaLinux?
-   * **GQ.*** Do you bug report for AlmaLinux?
-   * **GQ.*** Do you package for AlmaLinux?
+   * **GQ.** Do you only consume AlmaLinux?
+   * **GQ.** Do you bug report for AlmaLinux?
+   * **GQ.** Do you package for AlmaLinux?
 
 **Q.** What are your future plans with AlmaLinux?
 
 **Q.** What could AlmaLinux do for you?
 
-   * **GQ.*** Wish list?
-   * **GQ.*** Is AlmaLinux your only GNU Linux distribution in use?
+   * **GQ.** Wish list?
+   * **GQ.** Is AlmaLinux your only GNU Linux distribution in use?
 
 **Q.** ???
