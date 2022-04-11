@@ -40,9 +40,10 @@ AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
 **Q.** How do you contribute to AlmaLinux.
 
-   * **GQ.** Do you only consume AlmaLinux?
+   * **GQ.** Do you primarily consume AlmaLinux?
    * **GQ.** Do you bug report for AlmaLinux?
-   * **GQ.** Do you package for AlmaLinux?
+   * **GQ.** Do you contribute to related projects i.e. Fedora, EPEL etc.?
+   * **GQ.** Any upstream contribution?
 
 **Q.** What are your future plans with AlmaLinux?
 
