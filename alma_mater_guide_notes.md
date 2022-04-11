@@ -32,6 +32,8 @@ Video would be nice and would allow additional promotion on various channels.
    * **GQ.** In the back office, front office or both?
    * **GQ.** Anything out of the ordinary?
 
+**Q.** What hardware do you deploy AlmaLinux on?
+
 **Q.** How do you contribute to AlmaLinux.
 
    * **GQ.** Do you only consume AlmaLinux?
