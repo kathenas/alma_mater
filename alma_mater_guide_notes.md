@@ -50,7 +50,7 @@ Video would be nice and would allow additional promotion on various channels.
 
 ## We like screenshots, other imagery and videos
 
-**Having mostly text is a little dry and less enagaging, we need bold visuals**
+**Having mostly text is a little dry and less enagaging, we need bold visuals.**
 
 My daily driver laptop with custom look AlmaLinux desktop.
 
