@@ -21,7 +21,7 @@ AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
 **Wish:** Persons being interviewed/showcased should not be the usual suspects. Try to get people from the wider community. It could be you!
 
-## Key
+## Questions Key
 
 * **Q.** - Question.
 * **GQ.** - Sub guide question.
