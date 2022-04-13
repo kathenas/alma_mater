@@ -19,7 +19,7 @@ AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 ## Outputs
 
 * Blog post on AlmaLinux blog - written with images.
-* Video on ALmaLinux YouTube channel - where possible/applicable and in hihgest possible quality.
+* Video on ALmaLinux YouTube channel - where possible/applicable and in highest possible quality.
 
 **Wish:** Persons being interviewed/showcased should not be the usual suspects. Try to get people from the wider community. It could be you!
 
