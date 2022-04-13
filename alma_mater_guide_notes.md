@@ -82,7 +82,7 @@ AlmaLinux...
 
 ![screenshot_kathenas_desktop_0004](https://user-images.githubusercontent.com/68813857/162671925-16aac7a6-3469-453b-8334-647c21e7b93e.png)
 
-AlmaLinux... Doing Debian packaging in a Virtual MAchine (VM)???
+AlmaLinux... Doing Debian packaging in a Virtual Machine (VM)???
 
 ![Screenshot from 2022-04-13 08-53-56](https://user-images.githubusercontent.com/68813857/163127863-26e45d15-6a3c-40d6-8990-fb048998daa3.png)
 
