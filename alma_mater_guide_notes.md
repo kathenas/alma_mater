@@ -1,6 +1,6 @@
 ## Overview-ISH
 
-An ongoing series of blog posts to:
+An ongoing series of blog/video posts to:
 
 * Showcase diverse uses of AlmaLinux.
 * Showcase diversity of AlmaLinux user base.
