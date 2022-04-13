@@ -66,13 +66,23 @@ AlmaLinux and how AlmaLinux is being used - Images/Screenshots.
 
 My daily driver laptop with custom look AlmaLinux desktop.
 
+AlmaLinux...
+
 ![screenshot_kathenas_desktop_0001](https://user-images.githubusercontent.com/68813857/162671873-7fd68f4e-9f8f-46bd-919c-6b39363ac5ba.png)
+
+AlmaLinux...
 
 ![screenshot_kathenas_desktop_0002](https://user-images.githubusercontent.com/68813857/162671893-7b0d82a3-7357-4984-b9eb-80625dfe3d1b.png)
 
+AlmaLinux...
+
 ![screenshot_kathenas_desktop_0003](https://user-images.githubusercontent.com/68813857/162671908-8f3d2f3f-3e9c-4a3b-8f2e-977bb6e96999.png)
+
+AlmaLinux...
 
 ![screenshot_kathenas_desktop_0004](https://user-images.githubusercontent.com/68813857/162671925-16aac7a6-3469-453b-8334-647c21e7b93e.png)
 
+AlmaLinux... Doing Debian packaging in a Virtual MAchine (VM)???
 
+![Screenshot from 2022-04-13 08-53-56](https://user-images.githubusercontent.com/68813857/163127863-26e45d15-6a3c-40d6-8990-fb048998daa3.png)
 
